@@ -1,0 +1,50 @@
+body {
+background-color: black;
+}
+
+h4 {
+color: gray;
+margin-left: 50%;
+height: 2px;
+width: 100%;
+}
+
+table {
+/* border: 15px solid gray; */
+border-top: 20px solid gray;
+border-right: 20px solid gray;
+border-left: 20px solid gray;
+width: 100%;
+border-spacing: 5px;
+}
+
+td, th {
+border: 2px solid black;
+height: 50px;
+width: 80px;
+vertical-align: bottom;
+}
+
+th {
+height: 25px;
+}
+
+.red {
+background-color: red;
+}
+
+.yellow{
+background-color: yellow;
+}
+
+.blue {
+background-color: blue;
+}
+
+.green{
+background-color: green;
+}
+
+.black{
+background-color: black;
+}
