@@ -1,0 +1,62 @@
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+ .garden {
+   display: none;
+ }
+
+#container {
+   display: flex;
+   flex-direction: column;
+ }
+
+ #flowers {
+  display: flex wrap;
+  flex-direction: column;
+ }
+
+ .flower img {
+   width: 50%;
+ }
+  }
+
+#menu {
+    display: flex; 
+    background-color: rgb(99, 209, 99); 
+    color: black;
+    width: 100%;
+}
+
+#menu div {
+  margin: 10px;
+}
+
+#garden {
+  width: 100%;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: rgb(208, 252, 204);
+}
+
+#flowers {
+display: flex;
+margin: 10px;
+justify-content: space-around;
+}
+
+.flower {
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+label{
+  color: maroon;
+}
