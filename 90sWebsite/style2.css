@@ -1,0 +1,37 @@
+body {
+background-color: rgb(215, 255, 192);
+font-family: 'Acme', sans-serif;
+margin: 0px 0px 0px 0px;
+padding: 15px 25px;
+background-image: url("green_bg.jpg");
+font-family: 'Acme', sans-serif;
+}
+
+#me {
+margin-left: 45%;
+border-radius: 50%;
+border: 4px solid green;
+}
+
+h1, p, ul {
+color: black;
+}
+
+h1 {
+font-size: 35px;
+background: linear-gradient(125deg, lightgrey, green);
+border-bottom: 4px dashed black;
+padding: 0px 0px 0px 10px;
+text-shadow: 3px 3px 0px gray;
+}
+
+ul {
+color: black;
+font-size: 25px;
+list-style-image: url('rd-ht2.png');
+}
+
+p {
+font-size: 25px;
+text-indent: 50px;
+}
