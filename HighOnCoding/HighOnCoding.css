@@ -1,0 +1,47 @@
+.form-inline {
+margin-left: auto;
+}
+
+.current {
+background-color: lightgrey;
+display: flex;
+flex-direction: column;
+padding: 20px;
+margin: 30px;
+align-content: space-between;
+}
+
+.hello {
+display: flex;
+flex-direction: column;
+padding: 20px;
+margin: 30px;
+justify-content: space-around;
+align-content: space-between;
+}
+
+.watchkit {
+margin: 10px;
+padding-bottom: 10px;
+align-content: space-between;
+}
+
+.intro {
+display: flex;
+flex-direction: column;
+padding: 20px;
+margin: 30px;
+justify-content: space-around;
+align-content: space-between;
+}
+
+.swift {
+margin: 10px;
+padding-bottom: 10px;
+align-content: space-between;
+}
+
+.nav {
+background-color: orange;
+width: 100%;
+}
